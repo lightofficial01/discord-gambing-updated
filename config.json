@@ -1,0 +1,10 @@
+{
+  "owner_id": 1221338797602635827,
+  "giveaway_channel_id": 1394846725310513193,
+  "blackjack_win_rate": 0.55,
+  "coinflip_win_rate": 0.55,
+  "raffle_win_chance": 1e-06,
+  "raffle_ticket_cost": 10000,
+  "raffle_jackpot": 1000000000,
+  "chest_log_channel_id": 1395703904355749918
+}

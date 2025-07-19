@@ -1,0 +1,12 @@
+{
+  "balances": {},
+  "stats": {
+    "total_given": 0,
+    "total_in_system": 0,
+    "last_giveaway": null
+  },
+  "player_stats": {},
+  "user_boosts": {},
+  "user_items": {},
+  "user_inventories": {}
+}
